@@ -14,7 +14,7 @@ use App\Jobs\HttpRequestsManager;
 class HomeController extends ApiController
 {
 
-	//Login User Tasneem
+	//Login User
     public function login(Request $request)
     {
     	$validator = Validator::make($request->all(), [

@@ -10,9 +10,11 @@
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.12",
+        "laravel/horizon": "^5.7",
         "laravel/passport": "^10.1",
+        "laravel/telescope": "^4.4",
         "laravel/tinker": "^2.5",
-        "lcobucci/jwt": "^3.4"
+        "lcobucci/jwt": "^4.1.4"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
